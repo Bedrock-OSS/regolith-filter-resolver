@@ -2,7 +2,7 @@
     "formatVersion": "1.0.0",
     "filters": {
         "functioner": {
-            "url":"github.com/Hatchibombotar"
+            "url":"github.com/Hatchibombotar/useful-regolith-filters"
         },
         "blockbench_convert": {
             "url": "github.com/Bedrock-OSS/regolith-filters"
