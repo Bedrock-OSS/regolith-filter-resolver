@@ -123,6 +123,9 @@
         },
         "json_templating_engine": {
             "url": "github.com/MCDevKit/regolith-library"
+        },
+        "jsonte": {
+            "url": "github.com/MCDevKit/regolith-library"
         }
     }
 }
