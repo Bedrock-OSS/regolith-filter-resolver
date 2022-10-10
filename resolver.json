@@ -129,6 +129,9 @@
         },
         "jsonte": {
             "url": "github.com/MCDevKit/regolith-library"
+        },
+        "item_scale": {
+            "url": "github.com/MedicalJewel105/regolilters"
         }
     }
 }
