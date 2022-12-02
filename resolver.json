@@ -55,6 +55,9 @@
         "file_freedom": {
             "url": "github.com/Hatchibombotar/useful-regolith-filters"
         },
+        "debug_log": {
+            "url": "github.com/Hatchibombotar/useful-regolith-filters"
+        },
         "esbuild_executor": {
             "url": "github.com/MajestikButter/Regolith-Filters"
         },
