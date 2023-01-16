@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: iffy/install-nim@v4
       - run: nim -r c -d:ssl ./scraper.nim
       - run: rm ./scraper
