@@ -63,6 +63,7 @@ proc getFilters(): seq[Filter] =
 proc addFilter(f: Filter) =
     if not resolverJson["filters"].hasKey(f.name):
         resolverJson["filters"][f.name] = %*{"url": f.url}
+        echo fmt"Added filter {f.name}"
 
 let repoList = getRepos()
 cloneRepos(repoList)
@@ -71,4 +72,3 @@ for f in filterList:
     addFilter(f)
 resolverJsonPath.writeFile(resolverJson.pretty())
 sleep(1500)
-removeDir("Repos")
