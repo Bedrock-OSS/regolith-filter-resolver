@@ -1,0 +1,22 @@
+name: Scraper
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  auto-run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - uses: iffy/install-nim@v4
+      - run: nim -r c -d:ssl ./scraper.nim
+      - run: rm ./scraper
+      - name: commit
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: "${{ secrets.GH_TOKEN }}"
+          add_timestamp: true
+          commit_prefix: "[AUTO]"
+          commit_message: "Ran scraper"
