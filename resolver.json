@@ -1,5 +1,32 @@
 {
-    "formatVersion": "1.0.0",
-    "filters": {
+  "formatVersion": "1.0.0",
+  "filters": {
+    "blockbench_convert": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "bump_manifest": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "filter_tester": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "fix_emissive": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "gametests": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "json_cleaner": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "name_ninja": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "texture_convert": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "texture_list": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
     }
+  }
 }
