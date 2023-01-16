@@ -49,6 +49,7 @@ proc getFilters(): seq[Filter] =
             repoOwner = repo.split("___")[0]
             repoName = repo.split("___")[1]
         var repoUrl = fmt"github.com/{repoOwner}/{repoName}"
+        echo fmt"Looking through repo {repoUrl}"
         if isFilter(repo):
             filterList.add(newFilter(repoName, repoOwner, repoUrl))
             continue
