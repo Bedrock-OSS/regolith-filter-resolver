@@ -43,7 +43,7 @@ proc getFilters(): seq[Filter] =
     setCurrentDir("Repos")
     var filterList: seq[Filter] = @[]
     let repoRoot = getCurrentDir()
-    for repo in walkDirs("./**"):
+    for repo in walkPattern("**"):
         setCurrentDir(repoRoot)
         let 
             repoOwner = repo.split("___")[0]
