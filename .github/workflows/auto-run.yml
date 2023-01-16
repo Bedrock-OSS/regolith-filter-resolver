@@ -13,6 +13,7 @@ jobs:
       - uses: iffy/install-nim@v4
       - run: nim -r c -d:ssl ./scraper.nim
       - run: rm ./scraper
+      - run: rm -rf ./Repos
       - name: commit
         uses: devops-infra/action-commit-push@master
         with:
