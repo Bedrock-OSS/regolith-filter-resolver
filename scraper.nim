@@ -70,4 +70,5 @@ let filterList: seq[Filter] = getFilters()
 for f in filterList:
     addFilter(f)
 resolverJsonPath.writeFile(resolverJson.pretty())
+sleep(1500)
 removeDir("Repos")
