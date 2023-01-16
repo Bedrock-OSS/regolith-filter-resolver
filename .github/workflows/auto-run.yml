@@ -17,6 +17,5 @@ jobs:
         uses: devops-infra/action-commit-push@master
         with:
           github_token: "${{ secrets.GH_TOKEN }}"
-          add_timestamp: true
           commit_prefix: "[AUTO]"
           commit_message: "Ran scraper"
