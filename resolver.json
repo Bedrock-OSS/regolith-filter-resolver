@@ -159,6 +159,9 @@
     },
     "extend-vanilla-entities": {
       "url": "github.com/littlechestnutgames/regolith-filters"
+    },
+    "spawn_egg": {
+      "url": "github.com/ink0rr/regolith-filters"
     }
   }
 }
