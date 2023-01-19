@@ -162,6 +162,9 @@
     },
     "spawn_egg": {
       "url": "github.com/ink0rr/regolith-filters"
+    },
+    "sync_manifest": {
+      "url": "github.com/ink0rr/regolith-filters"
     }
   }
 }
