@@ -165,6 +165,9 @@
     },
     "sync_manifest": {
       "url": "github.com/ink0rr/regolith-filters"
+    },
+    "swc": {
+      "url": "github.com/ink0rr/regolith-filters"
     }
   }
 }
