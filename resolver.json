@@ -168,6 +168,9 @@
     },
     "swc": {
       "url": "github.com/ink0rr/regolith-filters"
+    },
+    "package": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
     }
   }
 }
