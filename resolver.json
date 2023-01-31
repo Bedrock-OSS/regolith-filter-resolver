@@ -1,152 +1,179 @@
 {
-    "formatVersion": "1.0.0",
-    "filters": {
-        "run_counter": {
-            "url": "github.com/Nusiq/regolith-filters"
-        },
-        "functioner": {
-            "url":"github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "blockbench_convert": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "bump_manifest": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "filter_tester": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "fix_emissive": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "gametests": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "json_cleaner": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "name_ninja": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "texture_convert": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "texture_list": {
-            "url": "github.com/Bedrock-OSS/regolith-filters"
-        },
-        "link_manifests": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "molang_insert": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "pack_commons": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "simple_blocks": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "templater": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "init-full": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "file_freedom": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "debug_log": {
-            "url": "github.com/Hatchibombotar/useful-regolith-filters"
-        },
-        "esbuild_executor": {
-            "url": "github.com/MajestikButter/Regolith-Filters"
-        },
-        "json_formatter": {
-            "url": "github.com/MajestikButter/Regolith-Filters"
-        },
-        "js_formatter": {
-            "url": "github.com/MajestikButter/Regolith-Filters"
-        },
-        "ts_transpiler": {
-            "url": "github.com/MajestikButter/Regolith-Filters"
-        },
-        "NBTEnchant": {
-            "url": "github.com/SmokeyStack/MCScripts"
-        },
-        "custom_project": {
-            "url": "github.com/Nusiq/regolith-filters"
-        },
-        "debug_say_function_name": {
-            "url": "github.com/Nusiq/regolith-filters"
-        },
-        "pytemplate": {
-            "url": "github.com/Nusiq/regolith-filters"
-        },
-        "subfunctions": {
-            "url": "github.com/Nusiq/regolith-filters"
-        },
-        "system_template": {
-            "url": "github.com/Nusiq/regolith-filters"
-        },
-        "extend-vanilla-entities": {
-            "url": "github.com/littlechestnutgames/regolith-filters"
-        },
-        "e-backup": {
-            "url": "github.com/cda94581/regolith-filters"
-        },
-        "export": {
-            "url": "github.com/cda94581/regolith-filters"
-        },
-        "minimize": {
-            "url": "github.com/cda94581/regolith-filters"
-        },
-        "namespace": {
-            "url": "github.com/cda94581/regolith-filters"
-        },
-        "classes": {
-            "url": "github.com/evilguy50/my-regolith-filters"
-        },
-        "ds_store": {
-            "url": "github.com/evilguy50/my-regolith-filters"
-        },
-        "shorthand": {
-            "url": "github.com/evilguy50/my-regolith-filters"
-        },
-        "strip": {
-            "url": "github.com/evilguy50/my-regolith-filters"
-        },
-        "style_lint": {
-            "url": "github.com/evilguy50/my-regolith-filters"
-        },
-        "title_ui": {
-            "url": "github.com/evilguy50/my-regolith-filters"
-        },
-        "scalable-teams": {
-            "url": "github.com/cda94581/regolith-premade-addons"
-        },
-        "echo": {
-            "url": "github.com/SirLich/echo-npc-regolith"
-        },
-        "digger_gen": {
-            "url": "github.com/SirLich/regolith-filters"
-        },
-        "module_importer": {
-            "url": "github.com/ShiCheng-Lu/Regolith-Filters"
-        },
-        "command_lang": {
-            "url": "github.com/MCDevKit/regolith-library"
-        },
-        "json_templating_engine": {
-            "url": "github.com/MCDevKit/regolith-library"
-        },
-        "jsonte": {
-            "url": "github.com/MCDevKit/regolith-library"
-        },
-        "item_scale": {
-            "url": "github.com/MedicalJewel105/regolilters"
-        },
-        "digger": {
-            "url": "github.com/MedicalJewel105/regolilters"
-        }
+  "formatVersion": "1.0.0",
+  "filters": {
+    "blockbench_convert": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "bump_manifest": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "filter_tester": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "fix_emissive": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "gametests": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "json_cleaner": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "name_ninja": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "texture_convert": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "texture_list": {
+      "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "debug_log": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "file_freedom": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "functioner": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "init-full": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "link_manifests": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "molang_insert": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "pack_commons": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "simple_blocks": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "templater": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "command_lang": {
+      "url": "github.com/MCDevKit/regolith-library"
+    },
+    "json_templating_engine": {
+      "url": "github.com/MCDevKit/regolith-library"
+    },
+    "jsonte": {
+      "url": "github.com/MCDevKit/regolith-library"
+    },
+    "esbuild_executor": {
+      "url": "github.com/MajestikButter/Regolith-Filters"
+    },
+    "js_formatter": {
+      "url": "github.com/MajestikButter/Regolith-Filters"
+    },
+    "json_formatter": {
+      "url": "github.com/MajestikButter/Regolith-Filters"
+    },
+    "ts_transpiler": {
+      "url": "github.com/MajestikButter/Regolith-Filters"
+    },
+    "export": {
+      "url": "github.com/Makercamp-SRLs/Regolith-filters"
+    },
+    "digger": {
+      "url": "github.com/MedicalJewel105/regolilters"
+    },
+    "item_scale": {
+      "url": "github.com/MedicalJewel105/regolilters"
+    },
+    "custom_project": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "debug_say_function_name": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "pytemplate": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "run_counter": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "subfunctions": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "system_template": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "module_importer": {
+      "url": "github.com/ShiCheng-Lu/Regolith-Filters"
+    },
+    "echo": {
+      "url": "github.com/SirLich/echo-npc-regolith"
+    },
+    "digger_gen": {
+      "url": "github.com/SirLich/regolith-filters"
+    },
+    "particulate": {
+      "url": "github.com/SirLich/regolith-filters"
+    },
+    "NBTEnchant": {
+      "url": "github.com/SmokeyStack/MCScripts"
+    },
+    "e-backup": {
+      "url": "github.com/cda94581/regolith-filters"
+    },
+    "minimize": {
+      "url": "github.com/cda94581/regolith-filters"
+    },
+    "namespace": {
+      "url": "github.com/cda94581/regolith-filters"
+    },
+    "scalable-teams": {
+      "url": "github.com/cda94581/regolith-premade-addons"
+    },
+    "classes": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "dash": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "ds_store": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "new_exec": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "shorthand": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "strip": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "style_lint": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "title_ui": {
+      "url": "github.com/evilguy50/my-regolith-filters"
+    },
+    "lazuli": {
+      "url": "github.com/ink0rr/regolith-filters"
+    },
+    "extend-vanilla-entities": {
+      "url": "github.com/littlechestnutgames/regolith-filters"
+    },
+    "spawn_egg": {
+      "url": "github.com/ink0rr/regolith-filters"
+    },
+    "sync_manifest": {
+      "url": "github.com/ink0rr/regolith-filters"
+    },
+    "swc": {
+      "url": "github.com/ink0rr/regolith-filters"
+    },
+    "package": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+    },
+    "janitor": {
+      "url": "github.com/ink0rr/regolith-filters"
     }
+  }
 }
