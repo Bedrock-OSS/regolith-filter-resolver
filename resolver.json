@@ -177,6 +177,9 @@
     },
     "mcdef_gen": {
       "url": "github.com/MCDevKit/regolith-library"
+    },
+    "adk": {
+      "url": "github.com/SmokeyStack/adk"
     }
   }
 }
