@@ -180,6 +180,12 @@
     },
     "adk": {
       "url": "github.com/SmokeyStack/adk"
+    },
+    "rego-level": {
+      "url": "github.com/llgava/regolith-filters"
+    },
+    "rego-remover": {
+      "url": "github.com/llgava/regolith-filters"
     }
   }
 }
