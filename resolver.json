@@ -186,6 +186,9 @@
     },
     "rego-remover": {
       "url": "github.com/llgava/regolith-filters"
+    },
+    "rego-glyph": {
+      "url": "github.com/llgava/regolith-filters"
     }
   }
 }
