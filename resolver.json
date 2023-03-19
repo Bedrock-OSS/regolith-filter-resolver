@@ -189,6 +189,9 @@
     },
     "rego-glyph": {
       "url": "github.com/llgava/regolith-filters"
+    },
+    "json_template": {
+      "url": "github.com/Nusiq/regolith-filters"
     }
   }
 }
