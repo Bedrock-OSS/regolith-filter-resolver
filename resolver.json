@@ -192,6 +192,9 @@
     },
     "json_template": {
       "url": "github.com/Nusiq/regolith-filters"
+    },
+    "whisk": {
+      "url": "github.com/MCDevKit/regolith-library"
     }
   }
 }
