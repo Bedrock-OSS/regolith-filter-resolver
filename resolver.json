@@ -1,203 +1,668 @@
 {
-  "formatVersion": "1.0.0",
+  "formatVersion": "1.1.0",
   "filters": {
     "blockbench_convert": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.1.0"
+      ]
     },
     "bump_manifest": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "filter_tester": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "fix_emissive": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "gametests": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.1.0",
+        "1.2.0",
+        "1.3.0",
+        "1.3.1",
+        "1.3.2",
+        "1.3.3"
+      ]
     },
     "json_cleaner": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1"
+      ]
     },
     "name_ninja": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.1.0",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3"
+      ]
     },
     "texture_convert": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1"
+      ]
     },
     "texture_list": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.1.2"
+      ]
     },
     "debug_log": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "0.0.2"
+      ]
     },
     "file_freedom": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1",
+        "1.1.0",
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.2.6",
+        "1.2.7",
+        "1.2.8",
+        "1.2.9",
+        "1.3.0"
+      ]
     },
     "functioner": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "1.0.0",
+        "1.1.0",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.3.0",
+        "1.3.1",
+        "1.4.0",
+        "1.5.0"
+      ]
     },
     "init-full": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.1.2",
+        "1.1.3"
+      ]
     },
     "link_manifests": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1"
+      ]
     },
     "molang_insert": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1"
+      ]
     },
     "pack_commons": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "1.0.0",
+        "1.0.1"
+      ]
     },
     "simple_blocks": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1"
+      ]
     },
     "templater": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "2.0.0"
+      ]
     },
     "command_lang": {
-      "url": "github.com/MCDevKit/regolith-library"
+      "url": "github.com/MCDevKit/regolith-library",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "json_templating_engine": {
-      "url": "github.com/MCDevKit/regolith-library"
+      "url": "github.com/MCDevKit/regolith-library",
+      "versions": [
+        "latest",
+        "1.1.0",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.3.0",
+        "1.3.1",
+        "1.3.2",
+        "1.4.0",
+        "1.4.1",
+        "1.4.2",
+        "1.4.3",
+        "1.4.4",
+        "1.4.5",
+        "1.4.6",
+        "1.4.7",
+        "1.5.0",
+        "1.5.1",
+        "1.5.2"
+      ]
     },
     "jsonte": {
-      "url": "github.com/MCDevKit/regolith-library"
+      "url": "github.com/MCDevKit/regolith-library",
+      "versions": [
+        "latest",
+        "2.0.0",
+        "2.0.1",
+        "2.0.2",
+        "2.0.3",
+        "2.0.4",
+        "2.0.5",
+        "2.0.6",
+        "2.1.0",
+        "2.1.1",
+        "2.10.0",
+        "2.10.1",
+        "2.2.0",
+        "2.3.0",
+        "2.3.1",
+        "2.3.2",
+        "2.4.0",
+        "2.4.1",
+        "2.4.2",
+        "2.4.3",
+        "2.4.5",
+        "2.4.6",
+        "2.5.0",
+        "2.6.0",
+        "2.6.1",
+        "2.6.2",
+        "2.7.0",
+        "2.7.1",
+        "2.8.0",
+        "2.8.1",
+        "2.8.2",
+        "2.8.3",
+        "2.9.0",
+        "2.9.1",
+        "2.9.2",
+        "2.9.3",
+        "2.9.4",
+        "2.9.5"
+      ]
     },
     "esbuild_executor": {
-      "url": "github.com/MajestikButter/Regolith-Filters"
+      "url": "github.com/MajestikButter/Regolith-Filters",
+      "versions": [
+        "latest"
+      ]
     },
     "js_formatter": {
-      "url": "github.com/MajestikButter/Regolith-Filters"
+      "url": "github.com/MajestikButter/Regolith-Filters",
+      "versions": [
+        "latest"
+      ]
     },
     "json_formatter": {
-      "url": "github.com/MajestikButter/Regolith-Filters"
+      "url": "github.com/MajestikButter/Regolith-Filters",
+      "versions": [
+        "latest"
+      ]
     },
     "ts_transpiler": {
-      "url": "github.com/MajestikButter/Regolith-Filters"
+      "url": "github.com/MajestikButter/Regolith-Filters",
+      "versions": [
+        "latest"
+      ]
     },
     "export": {
-      "url": "github.com/Makercamp-SRLs/Regolith-filters"
+      "url": "github.com/Makercamp-SRLs/Regolith-filters",
+      "versions": [
+        "latest"
+      ]
     },
     "digger": {
-      "url": "github.com/MedicalJewel105/regolilters"
+      "url": "github.com/MedicalJewel105/regolilters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "item_scale": {
-      "url": "github.com/MedicalJewel105/regolilters"
+      "url": "github.com/MedicalJewel105/regolilters",
+      "versions": [
+        "latest"
+      ]
     },
     "custom_project": {
-      "url": "github.com/Nusiq/regolith-filters"
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1"
+      ]
     },
     "debug_say_function_name": {
-      "url": "github.com/Nusiq/regolith-filters"
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "2.0.0"
+      ]
     },
     "pytemplate": {
-      "url": "github.com/Nusiq/regolith-filters"
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "0.0.2",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.1.2"
+      ]
     },
     "run_counter": {
-      "url": "github.com/Nusiq/regolith-filters"
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
+      ]
     },
     "subfunctions": {
-      "url": "github.com/Nusiq/regolith-filters"
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "2.0.0",
+        "2.0.1",
+        "2.0.2",
+        "2.0.3"
+      ]
     },
     "system_template": {
-      "url": "github.com/Nusiq/regolith-filters"
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.2.0",
+        "2.0.0",
+        "2.0.1",
+        "2.0.2",
+        "2.1.0",
+        "2.2.0",
+        "2.3.0",
+        "2.4.0",
+        "2.4.1",
+        "2.5.0",
+        "2.6.0",
+        "2.6.1",
+        "2.7.0",
+        "2.8.0"
+      ]
     },
     "module_importer": {
-      "url": "github.com/ShiCheng-Lu/Regolith-Filters"
+      "url": "github.com/ShiCheng-Lu/Regolith-Filters",
+      "versions": [
+        "latest"
+      ]
     },
     "echo": {
-      "url": "github.com/SirLich/echo-npc-regolith"
+      "url": "github.com/SirLich/echo-npc-regolith",
+      "versions": [
+        "latest"
+      ]
     },
     "digger_gen": {
-      "url": "github.com/SirLich/regolith-filters"
+      "url": "github.com/SirLich/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1"
+      ]
     },
     "particulate": {
-      "url": "github.com/SirLich/regolith-filters"
+      "url": "github.com/SirLich/regolith-filters",
+      "versions": [
+        "latest"
+      ]
     },
     "NBTEnchant": {
-      "url": "github.com/SmokeyStack/MCScripts"
+      "url": "github.com/SmokeyStack/MCScripts",
+      "versions": [
+        "latest"
+      ]
     },
     "e-backup": {
-      "url": "github.com/cda94581/regolith-filters"
+      "url": "github.com/cda94581/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "0.0.2"
+      ]
     },
     "minimize": {
-      "url": "github.com/cda94581/regolith-filters"
+      "url": "github.com/cda94581/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4"
+      ]
     },
     "namespace": {
-      "url": "github.com/cda94581/regolith-filters"
+      "url": "github.com/cda94581/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7"
+      ]
     },
     "scalable-teams": {
-      "url": "github.com/cda94581/regolith-premade-addons"
+      "url": "github.com/cda94581/regolith-premade-addons",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1"
+      ]
     },
     "classes": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "dash": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.2.0"
+      ]
     },
     "ds_store": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "new_exec": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+      ]
     },
     "shorthand": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "strip": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "style_lint": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ]
     },
     "title_ui": {
-      "url": "github.com/evilguy50/my-regolith-filters"
+      "url": "github.com/evilguy50/my-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "lazuli": {
-      "url": "github.com/ink0rr/regolith-filters"
+      "url": "github.com/ink0rr/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4"
+      ]
     },
     "extend-vanilla-entities": {
-      "url": "github.com/littlechestnutgames/regolith-filters"
+      "url": "github.com/littlechestnutgames/regolith-filters",
+      "versions": [
+        "latest"
+      ]
     },
     "spawn_egg": {
-      "url": "github.com/ink0rr/regolith-filters"
+      "url": "github.com/ink0rr/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1"
+      ]
     },
     "sync_manifest": {
-      "url": "github.com/ink0rr/regolith-filters"
+      "url": "github.com/ink0rr/regolith-filters",
+      "versions": [
+        "latest"
+      ]
     },
     "swc": {
       "url": "github.com/ink0rr/regolith-filters"
     },
     "package": {
-      "url": "github.com/Hatchibombotar/useful-regolith-filters"
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1"
+      ]
     },
     "janitor": {
-      "url": "github.com/ink0rr/regolith-filters"
+      "url": "github.com/ink0rr/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.1"
+      ]
     },
     "mcdef_gen": {
-      "url": "github.com/MCDevKit/regolith-library"
+      "url": "github.com/MCDevKit/regolith-library",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1"
+      ]
     },
     "adk": {
-      "url": "github.com/SmokeyStack/adk"
+      "url": "github.com/SmokeyStack/adk",
+      "versions": [
+        "latest",
+        "0.10.0",
+        "0.11.0",
+        "0.11.1",
+        "0.11.2",
+        "0.11.3",
+        "0.2.0",
+        "0.3.0",
+        "0.3.1",
+        "0.4.0",
+        "0.5.0",
+        "0.6.0",
+        "0.7.0",
+        "0.7.1",
+        "0.7.2",
+        "0.8.0",
+        "0.8.1",
+        "0.8.2",
+        "0.8.3",
+        "0.8.4",
+        "0.9.0"
+      ]
     },
     "rego-level": {
-      "url": "github.com/llgava/regolith-filters"
+      "url": "github.com/llgava/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     },
     "rego-remover": {
-      "url": "github.com/llgava/regolith-filters"
+      "url": "github.com/llgava/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1"
+      ]
     },
     "rego-glyph": {
-      "url": "github.com/llgava/regolith-filters"
+      "url": "github.com/llgava/regolith-filters",
+      "versions": [
+        "latest"
+      ]
     },
     "json_template": {
-      "url": "github.com/Nusiq/regolith-filters"
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "2.0.0",
+        "2.0.1",
+        "2.1.0"
+      ]
     },
     "whisk": {
-      "url": "github.com/MCDevKit/regolith-library"
+      "url": "github.com/MCDevKit/regolith-library",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1"
+      ]
     },
     "json_convert": {
-      "url": "github.com/Bedrock-OSS/regolith-filters"
+      "url": "github.com/Bedrock-OSS/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
+    },
+    "cda94581_export": {
+      "url": "github.com/cda94581/regolith-filters",
+      "versions": [
+        "latest",
+        "0.0.2",
+        "0.0.3"
+      ]
     }
   }
 }

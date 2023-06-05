@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: iffy/install-nim@v4
-      - run: nim -r c -d:ssl ./scraper.nim
+      - run: nim -r c ./scraper.nim
       - run: rm ./scraper
       - run: rm -rf ./Repos
       - name: commit
