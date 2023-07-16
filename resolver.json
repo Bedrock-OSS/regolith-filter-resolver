@@ -690,7 +690,8 @@
     "csharp-compiler": {
       "url": "github.com/llgava/regolith-filters",
       "versions": [
-        "latest"
+        "latest",
+        "1.0.0"
       ]
     }
   }
