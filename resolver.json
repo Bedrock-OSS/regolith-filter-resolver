@@ -704,6 +704,12 @@
         "latest",
         "1.0.0"
       ]
+    },
+    "typescript-json": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest"
+      ]
     }
   }
 }
