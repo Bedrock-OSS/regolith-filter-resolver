@@ -718,6 +718,12 @@
       "versions": [
         "latest"
       ]
+    },
+    "poeditor_integration": {
+      "url": "github.com/SirLich/regolith-filters",
+      "versions": [
+        "latest"
+      ]
     }
   }
 }
