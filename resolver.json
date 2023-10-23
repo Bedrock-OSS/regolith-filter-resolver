@@ -724,6 +724,13 @@
       "versions": [
         "latest"
       ]
+    },
+    "sanity_check": {
+      "url": "github.com/MCDevKit/regolith-library",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     }
   }
 }
