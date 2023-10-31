@@ -731,6 +731,13 @@
         "latest",
         "1.0.0"
       ]
+    },
+    "esbuild_deno": {
+      "url": "github.com/ink0rr/regolith-filters",
+      "versions": [
+        "latest",
+        "0.1.0"
+      ]
     }
   }
 }
