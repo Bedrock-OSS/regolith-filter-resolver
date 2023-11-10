@@ -731,7 +731,8 @@
       "url": "github.com/MCDevKit/regolith-library",
       "versions": [
         "latest",
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
       ]
     },
     "esbuild_deno": {
