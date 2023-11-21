@@ -741,6 +741,16 @@
         "latest",
         "0.1.0"
       ]
+    },
+    "packer": {
+      "url": "github.com/MCDevKit/regolith-library",
+      "versions": [
+        "latest",
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ]
     }
   }
 }
