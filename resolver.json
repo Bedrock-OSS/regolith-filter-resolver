@@ -751,6 +751,13 @@
         "1.0.2",
         "1.0.3"
       ]
+    },
+    "JSon-cleaner": {
+      "url": "github.com/llgava/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     }
   }
 }
