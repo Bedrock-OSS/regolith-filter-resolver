@@ -791,6 +791,13 @@
         "1.0.4",
         "1.0.5"
       ]
+    },
+    "system_template_esbuild": {
+      "url": "github.com/Nusiq/regolith-filters",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     }
   }
 }
