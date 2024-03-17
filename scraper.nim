@@ -50,7 +50,7 @@ iterator getFilters(): Filter =
                     var versions: seq[string] = @["latest"]
                     let tagList = readFile("tags.txt").split("\n")
                     for tag in tagList:
-                        if tag.contains(filterName):
+                        if tag.contains(filterName & "-"):
                             let strVersion = tag.replace(filterName & "-", "")
                             versions.add(strVersion)
                     yield newFilter(filterName, user, findRepo(user, repoName), versions)
