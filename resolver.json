@@ -796,7 +796,8 @@
       "url": "github.com/Nusiq/regolith-filters",
       "versions": [
         "latest",
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
       ]
     }
   }
