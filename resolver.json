@@ -601,7 +601,8 @@
     "sync_manifest": {
       "url": "github.com/ink0rr/regolith-filters",
       "versions": [
-        "latest"
+        "latest",
+        "0.1.0"
       ]
     },
     "swc": {
