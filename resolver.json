@@ -821,6 +821,13 @@
         "latest",
         "0.1.0"
       ]
+    },
+    "bedrock_bundler": {
+      "url": "github.com/bogumidu/regolith-library",
+      "versions": [
+        "latest",
+        "1.0.0"
+      ]
     }
   }
 }
