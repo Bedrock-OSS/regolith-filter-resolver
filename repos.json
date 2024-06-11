@@ -18,6 +18,7 @@
     "github.com/littlechestnutgames/regolith-filters",
     "github.com/SmokeyStack/adk",
     "github.com/llgava/regolith-filters",
-    "github.com/Bedrock-OSS/regolith-filters"
+    "github.com/Bedrock-OSS/regolith-filters",
+    "github.com/bogumidu/regolith-library"
   ]
 }
