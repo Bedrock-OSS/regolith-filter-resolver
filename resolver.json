@@ -830,6 +830,12 @@
         "latest",
         "1.0.0"
       ]
+    },
+    "template_example": {
+      "url": "github.com/Hatchibombotar/useful-regolith-filters",
+      "versions": [
+        "latest"
+      ]
     }
   }
 }
