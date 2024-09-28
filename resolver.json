@@ -828,7 +828,8 @@
       "url": "github.com/ink0rr/regolith-filters",
       "versions": [
         "latest",
-        "0.1.0"
+        "0.1.0",
+        "0.2.0"
       ]
     },
     "bedrock_bundler": {
