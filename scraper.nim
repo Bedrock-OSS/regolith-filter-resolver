@@ -130,6 +130,9 @@ communityFilters.sort(sortFilters)
 # Build the string for the README
 readmeText.add("""
 ## Standard Filters
+
+This list contains filters maintained by Bedrock-OSS.
+
 | Filter | Description |
 | ------ | ----------- |
 """)
@@ -141,6 +144,12 @@ for filter in standardFilters:
 
 readmeText.add("""
 ## Community Filters
+
+This list contains filters created by the community.
+
+> [!WARNING]
+> The filters in this list are not maintained by Bedrock-OSS, use them at your own risk.
+
 | Filter | Author |  Description |
 | ------ | ------ | ------------ |
 """)
