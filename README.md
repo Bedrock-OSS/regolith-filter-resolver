@@ -9,6 +9,9 @@ You can add your own filters to the resolver by creating a pull request to this 
 ## Known Repositories
 You can use this list to discover new filters to use with Regolith, below you can find a list of known standard filters (from Bedrock-OSS) and community filters.
 ## Standard Filters
+
+This list contains filters maintained by Bedrock-OSS.
+
 | Filter | Description |
 | ------ | ----------- |
 | [blockbench_convert](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/blockbench_convert) | Converts blockbench models into `.geometry.json` files. |
@@ -23,6 +26,12 @@ You can use this list to discover new filters to use with Regolith, below you ca
 | [texture_list](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/texture_list) | Automatically creates the `texture_list.json` file, based on the images you've added into your resource pack. |
 | [type_gen](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/type_gen) | Generates Files.d.ts file with some relevant constants from the current pack. |
 ## Community Filters
+
+This list contains filters created by the community.
+
+> [!WARNING]
+> The filters in this list are not maintained by Bedrock-OSS, use them at your own risk.
+
 | Filter | Author |  Description |
 | ------ | ------ | ------------ |
 | [bedrock_bundler](https://github.com/bogumidu/regolith-library/tree/HEAD/bedrock_bundler) | bogumidu | Bundles animation_controllers, animations, models and render_controllers into single files. |
