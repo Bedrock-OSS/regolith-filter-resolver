@@ -1,4 +1,4 @@
-import std/[os, json, strutils, strformat, options]
+import std/[os, json, strutils, strformat, options, algorithm]
 
 let
     resolverJsonPath = fmt"{getAppDir()}/resolver.json"
@@ -115,6 +115,17 @@ for onlineFilter in getFilters():
 
 # Save the resolverJson
 resolverJsonPath.writeFile(resolverJson.pretty())
+
+# Sort the filters in the standardFilters and communityFilters to avoid
+# making the README file change every time the script is run
+proc sortFilters(a, b: Filter): int =
+    let authorOrder = cmp(a.author.toLower(), b.author.toLower())
+    if authorOrder != 0:
+        return authorOrder
+    return cmp(a.name.toLower(), b.name.toLower())
+
+standardFilters.sort(sortFilters)
+communityFilters.sort(sortFilters)
 
 # Build the string for the README
 readmeText.add("""
