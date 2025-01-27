@@ -249,6 +249,12 @@
     },
     "enderchest": {
       "url": "github.com/llgava/regolith-filters"
+    },
+    "tetanus": {
+      "url": "github.com/akashic-records-of-the-abyss/rusted-filters"
+    },
+    "json_normalizer": {
+      "url": "github.com/akashic-records-of-the-abyss/rusted-filters"
     }
   }
 }
