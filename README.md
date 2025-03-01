@@ -92,6 +92,7 @@ This list contains filters created by the community.
 | [custom_project](https://github.com/Nusiq/regolith-filters/tree/HEAD/custom_project) | Nusiq | A filter to organize your project files based on their extensions. |
 | [debug_say_function_name](https://github.com/Nusiq/regolith-filters/tree/HEAD/debug_say_function_name) | Nusiq | A tool for adding debug 'tellraw' commands to your *.mcfunction files. |
 | [json_template](https://github.com/Nusiq/regolith-filters/tree/HEAD/json_template) | Nusiq | JSON templating tool based on special strings with Python syntax. |
+| [pack_anything](https://github.com/Nusiq/regolith-filters/tree/HEAD/pack_anything) | Nusiq | Unopinionated filter that lets you pack anything into a ZIP file in any way you want. |
 | [pytemplate](https://github.com/Nusiq/regolith-filters/tree/HEAD/pytemplate) | Nusiq | JSON templating tool based on Python list and dict comprehension syntax. |
 | [run_counter](https://github.com/Nusiq/regolith-filters/tree/HEAD/run_counter) | Nusiq | A filter that counts the number of Regolith runs and exports it to a file. |
 | [subfunctions](https://github.com/Nusiq/regolith-filters/tree/HEAD/subfunctions) | Nusiq | An extension to the *.mcfunction file syntax. |

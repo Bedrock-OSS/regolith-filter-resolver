@@ -255,6 +255,9 @@
     },
     "json_normalizer": {
       "url": "github.com/akashic-records-of-the-abyss/rusted-filters"
+    },
+    "pack_anything": {
+      "url": "github.com/Nusiq/regolith-filters"
     }
   }
 }
