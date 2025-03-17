@@ -20,6 +20,16 @@
     "github.com/llgava/regolith-filters",
     "github.com/Bedrock-OSS/regolith-filters",
     "github.com/bogumidu/regolith-library",
-    "github.com/akashic-records-of-the-abyss/rusted-filters"
+    "github.com/akashic-records-of-the-abyss/rusted-filters",
+    "github.com/ShapescapeMC/Shapescape-Content-Guide-Generator",
+    "github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-Containers",
+    "github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-World-Settings",
+    "github.com/ShapescapeMC/Shapescape-Custom-Blocks-Generator",
+    "github.com/ShapescapeMC/Shapescape-Cutscenes",
+    "github.com/ShapescapeMC/Shapescape-Copy-Files",
+    "github.com/ShapescapeMC/Shapescape-Easy-Glyphs",
+    "github.com/ShapescapeMC/Shapescape-Legacy-Project-Updater",
+    "github.com/ShapescapeMC/Shapescape-Texture-Tools",
+    "github.com/ShapescapeMC/Shapescape-World-Settings"
   ]
 }
