@@ -106,6 +106,7 @@ This list contains filters created by the community.
 | [shapescape_cutscenes](https://github.com/ShapescapeMC/Shapescape-Cutscenes/tree/HEAD/shapescape_cutscenes) | ShapescapeMC |  |
 | [shapescape_easy_glyphs](https://github.com/ShapescapeMC/Shapescape-Easy-Glyphs/tree/HEAD/shapescape_easy_glyphs) | ShapescapeMC |  |
 | [shapescape_legacy_project_updater](https://github.com/ShapescapeMC/Shapescape-Legacy-Project-Updater/tree/HEAD/shapescape_legacy_project_updater) | ShapescapeMC |  |
+| [shapescape_minify_json](https://github.com/ShapescapeMC/Shapescape-Minify-Json/tree/HEAD/shapescape_minify_json) | ShapescapeMC |  |
 | [shapescape_texture_tools](https://github.com/ShapescapeMC/Shapescape-Texture-Tools/tree/HEAD/shapescape_texture_tools) | ShapescapeMC |  |
 | [shapescape_world_settings](https://github.com/ShapescapeMC/Shapescape-World-Settings/tree/HEAD/shapescape_world_settings) | ShapescapeMC | A filter that sets some properties in the level.dat file. |
 | [module_importer](https://github.com/ShiCheng-Lu/Regolith-Filters/tree/HEAD/module_importer) | ShiCheng-Lu |  |

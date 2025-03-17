@@ -288,6 +288,9 @@
     },
     "shapescape_world_settings": {
       "url": "github.com/ShapescapeMC/Shapescape-World-Settings"
+    },
+    "shapescape_minify_json": {
+      "url": "github.com/ShapescapeMC/Shapescape-Minify-Json"
     }
   }
 }
