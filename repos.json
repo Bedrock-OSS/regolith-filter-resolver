@@ -30,6 +30,7 @@
     "github.com/ShapescapeMC/Shapescape-Easy-Glyphs",
     "github.com/ShapescapeMC/Shapescape-Legacy-Project-Updater",
     "github.com/ShapescapeMC/Shapescape-Texture-Tools",
-    "github.com/ShapescapeMC/Shapescape-World-Settings"
+    "github.com/ShapescapeMC/Shapescape-World-Settings",
+    "github.com/ShapescapeMC/Shapescape-Minify-Json"
   ]
 }
