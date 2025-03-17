@@ -258,6 +258,36 @@
     },
     "pack_anything": {
       "url": "github.com/Nusiq/regolith-filters"
+    },
+    "shapescape_custom_blocks_generator": {
+      "url": "github.com/ShapescapeMC/Shapescape-Custom-Blocks-Generator"
+    },
+    "shapescape_legacy_project_updater": {
+      "url": "github.com/ShapescapeMC/Shapescape-Legacy-Project-Updater"
+    },
+    "shapescape_cgg_world_settings": {
+      "url": "github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-World-Settings"
+    },
+    "shapescape_copy_files": {
+      "url": "github.com/ShapescapeMC/Shapescape-Copy-Files"
+    },
+    "shapescape_content_guide_generator": {
+      "url": "github.com/ShapescapeMC/Shapescape-Content-Guide-Generator"
+    },
+    "shapescape_cgg_containers": {
+      "url": "github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-Containers"
+    },
+    "shapescape_easy_glyphs": {
+      "url": "github.com/ShapescapeMC/Shapescape-Easy-Glyphs"
+    },
+    "shapescape_texture_tools": {
+      "url": "github.com/ShapescapeMC/Shapescape-Texture-Tools"
+    },
+    "shapescape_cutscenes": {
+      "url": "github.com/ShapescapeMC/Shapescape-Cutscenes"
+    },
+    "shapescape_world_settings": {
+      "url": "github.com/ShapescapeMC/Shapescape-World-Settings"
     }
   }
 }
