@@ -99,15 +99,15 @@ This list contains filters created by the community.
 | [system_template](https://github.com/Nusiq/regolith-filters/tree/HEAD/system_template) | Nusiq | A filter for grouping your project files into folders based on what they do together instead of what they are. |
 | [system_template_esbuild](https://github.com/Nusiq/regolith-filters/tree/HEAD/system_template_esbuild) | Nusiq | Script compiler that uses Esbuild designed to be used with the System Tempalte filter. |
 | [shapescape_cgg_containers](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-Containers/tree/HEAD/shapescape_cgg_containers) | ShapescapeMC | A filter reads all containers of a level and prints them in a content guide generator template file. |
-| [shapescape_cgg_world_settings](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-World-Settings/tree/HEAD/shapescape_cgg_world_settings) | ShapescapeMC |  |
-| [shapescape_content_guide_generator](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator/tree/HEAD/shapescape_content_guide_generator) | ShapescapeMC |  |
+| [shapescape_cgg_world_settings](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-World-Settings/tree/HEAD/shapescape_cgg_world_settings) | ShapescapeMC | Addon for the Content Guide Generator Filter that reads data from a the release_config file and pastes this into a world_settings.md template. |
+| [shapescape_content_guide_generator](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator/tree/HEAD/shapescape_content_guide_generator) | ShapescapeMC | Regolith filter that generates content guides. |
 | [shapescape_copy_files](https://github.com/ShapescapeMC/Shapescape-Copy-Files/tree/HEAD/shapescape_copy_files) | ShapescapeMC | A filter that copies specified files to a different place on your drive. |
-| [shapescape_custom_blocks_generator](https://github.com/ShapescapeMC/Shapescape-Custom-Blocks-Generator/tree/HEAD/shapescape_custom_blocks_generator) | ShapescapeMC |  |
-| [shapescape_cutscenes](https://github.com/ShapescapeMC/Shapescape-Cutscenes/tree/HEAD/shapescape_cutscenes) | ShapescapeMC |  |
-| [shapescape_easy_glyphs](https://github.com/ShapescapeMC/Shapescape-Easy-Glyphs/tree/HEAD/shapescape_easy_glyphs) | ShapescapeMC |  |
-| [shapescape_legacy_project_updater](https://github.com/ShapescapeMC/Shapescape-Legacy-Project-Updater/tree/HEAD/shapescape_legacy_project_updater) | ShapescapeMC |  |
-| [shapescape_minify_json](https://github.com/ShapescapeMC/Shapescape-Minify-Json/tree/HEAD/shapescape_minify_json) | ShapescapeMC |  |
-| [shapescape_texture_tools](https://github.com/ShapescapeMC/Shapescape-Texture-Tools/tree/HEAD/shapescape_texture_tools) | ShapescapeMC |  |
+| [shapescape_custom_blocks_generator](https://github.com/ShapescapeMC/Shapescape-Custom-Blocks-Generator/tree/HEAD/shapescape_custom_blocks_generator) | ShapescapeMC | A Regolith filter that makes creating custom blocks easier. |
+| [shapescape_cutscenes](https://github.com/ShapescapeMC/Shapescape-Cutscenes/tree/HEAD/shapescape_cutscenes) | ShapescapeMC | Regolith filter for creating cutscenes for dialogues and controlling camera movement. |
+| [shapescape_easy_glyphs](https://github.com/ShapescapeMC/Shapescape-Easy-Glyphs/tree/HEAD/shapescape_easy_glyphs) | ShapescapeMC | Regolith filter that makes adding custom glyphs easier |
+| [shapescape_legacy_project_updater](https://github.com/ShapescapeMC/Shapescape-Legacy-Project-Updater/tree/HEAD/shapescape_legacy_project_updater) | ShapescapeMC | A filter for updating project using legacy commands - old execute format, block commands (fill, setblock, execute .. if block), and entity commands (summon). |
+| [shapescape_minify_json](https://github.com/ShapescapeMC/Shapescape-Minify-Json/tree/HEAD/shapescape_minify_json) | ShapescapeMC | Minifies the JSON files in RP and BP. |
+| [shapescape_texture_tools](https://github.com/ShapescapeMC/Shapescape-Texture-Tools/tree/HEAD/shapescape_texture_tools) | ShapescapeMC | Regolith filter for combining and separating textures. |
 | [shapescape_world_settings](https://github.com/ShapescapeMC/Shapescape-World-Settings/tree/HEAD/shapescape_world_settings) | ShapescapeMC | A filter that sets some properties in the level.dat file. |
 | [module_importer](https://github.com/ShiCheng-Lu/Regolith-Filters/tree/HEAD/module_importer) | ShiCheng-Lu |  |
 | [digger_gen](https://github.com/SirLich/regolith-filters/tree/HEAD/digger_gen) | SirLich | Automatically generates `minecraft:digger` based on some meta-data. |
