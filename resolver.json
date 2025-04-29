@@ -291,6 +291,9 @@
     },
     "shapescape_minify_json": {
       "url": "github.com/ShapescapeMC/Shapescape-Minify-Json"
+    },
+    "validate": {
+      "url": "github.com/MCDevKit/regolith-library"
     }
   }
 }

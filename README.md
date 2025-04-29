@@ -86,6 +86,7 @@ This list contains filters created by the community.
 | [mcdef_gen](https://github.com/MCDevKit/regolith-library/tree/HEAD/mcdef_gen) | MCDevKit | Generates a .mcdefinition file. |
 | [packer](https://github.com/MCDevKit/regolith-library/tree/HEAD/packer) | MCDevKit | Packs world with packs into a .mcaddon file. |
 | [sanity_check](https://github.com/MCDevKit/regolith-library/tree/HEAD/sanity_check) | MCDevKit | Checks common issues with addons. |
+| [validate](https://github.com/MCDevKit/regolith-library/tree/HEAD/validate) | MCDevKit | Performs mctools.dev validation. |
 | [whisk](https://github.com/MCDevKit/regolith-library/tree/HEAD/whisk) | MCDevKit | Copies contents of a GitHub repo into current addon. |
 | [digger](https://github.com/MedicalJewel105/regolilters/tree/HEAD/digger) | MedicalJewel105 | Simple filter that adds vanilla (and custom) blocks to your tools in 1.16.100+ version. |
 | [item_scale](https://github.com/MedicalJewel105/regolilters/tree/HEAD/item_scale) | MedicalJewel105 | Generates render offsets for 1.16.100+ items with textures bigger than 16x16. |
