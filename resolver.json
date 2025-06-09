@@ -297,6 +297,9 @@
     },
     "validate": {
       "url": "github.com/MCDevKit/regolith-library"
+    },
+    "marathon": {
+      "url": "github.com/azurite-bedrock/regolith-filters"
     }
   }
 }
