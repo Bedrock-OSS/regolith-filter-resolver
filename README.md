@@ -37,6 +37,9 @@ This list contains filters created by the community.
 | [json_normalizer](https://github.com/akashic-records-of-the-abyss/rusted-filters/tree/HEAD/json_normalizer) | akashic-records-of-the-abyss | Normalizes jsonc and hjson into valid json! This uses all system threads (this can be configured) to make this process even faster! |
 | [tetanus](https://github.com/akashic-records-of-the-abyss/rusted-filters/tree/HEAD/tetanus) | akashic-records-of-the-abyss | This is the main filter dispatcher for the rusted collection of filters |
 | [marathon](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/marathon) | azurite-bedrock | Parallel script execution runtime that automatically discovers and runs generator scripts to automate the creation of blocks, items, entities, and other game content at scale. |
+| [minifeature](https://github.com/BigChungus21220/minifeature-regolith-filter/tree/HEAD/minifeature) | BigChungus21220 |  |
+| [texturelistgen](https://github.com/BigChungus21220/BigChungus21220-Regolith-Filters/tree/HEAD/texturelistgen) | BigChungus21220 |  |
+| [unifiedblocks](https://github.com/BigChungus21220/BigChungus21220-Regolith-Filters/tree/HEAD/unifiedblocks) | BigChungus21220 |  |
 | [bedrock_bundler](https://github.com/bogumidu/regolith-library/tree/HEAD/bedrock_bundler) | bogumidu | Bundles animation_controllers, animations, models and render_controllers into single files. |
 | [e-backup](https://github.com/cda94581/regolith-filters/tree/HEAD/e-backup) | cda94581 |  |
 | [minimize](https://github.com/cda94581/regolith-filters/tree/HEAD/minimize) | cda94581 |  |

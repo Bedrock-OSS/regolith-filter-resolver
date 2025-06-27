@@ -300,6 +300,12 @@
     },
     "marathon": {
       "url": "github.com/azurite-bedrock/regolith-filters"
+    },
+    "texturelistgen": {
+      "url": "github.com/BigChungus21220/BigChungus21220-Regolith-Filters"
+    },
+    "unifiedblocks": {
+      "url": "github.com/BigChungus21220/BigChungus21220-Regolith-Filters"
     }
   }
 }
