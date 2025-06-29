@@ -309,6 +309,9 @@
     },
     "modular_mc": {
       "url": "github.com/Nusiq/regolith-filters"
+    },
+    "unifieditems": {
+      "url": "github.com/BigChungus21220/BigChungus21220-Regolith-Filters"
     }
   }
 }
