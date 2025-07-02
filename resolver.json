@@ -312,6 +312,15 @@
     },
     "unifieditems": {
       "url": "github.com/BigChungus21220/BigChungus21220-Regolith-Filters"
+    },
+    "aseprite_convert": {
+      "url": "github.com/thePixelmancer/regolith-filters"
+    },
+    "auto_spawn_egg": {
+      "url": "github.com/thePixelmancer/regolith-filters"
+    },
+    "replacements": {
+      "url": "github.com/thePixelmancer/regolith-filters"
     }
   }
 }

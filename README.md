@@ -123,3 +123,6 @@ This list contains filters created by the community.
 | [poeditor_integration](https://github.com/SirLich/regolith-filters/tree/HEAD/poeditor_integration) | SirLich | Synchronizes your .lang project files with poeditor.com |
 | [adk](https://github.com/SmokeyStack/adk/tree/HEAD/adk) | SmokeyStack | Create add-ons for Minecraft without touching JSON |
 | [NBTEnchant](https://github.com/SmokeyStack/MCScripts/tree/HEAD/NBTEnchant) | SmokeyStack | This script is used to generate .mcstructure files containing edited nbt data that is currently not possible to do ingame |
+| [aseprite_convert](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/aseprite_convert) | thePixelmancer | Automatically converts aseprite textures .png, spritesheets or frames. |
+| [auto_spawn_egg](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/auto_spawn_egg) | thePixelmancer | Automatically creates spawn egg colors in entity files, if none is specified. |
+| [replacements](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/replacements) | thePixelmancer | Replaces strings to other strings |
