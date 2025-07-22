@@ -36,7 +36,8 @@ This list contains filters created by the community.
 | ------ | ------ | ------------ |
 | [json_normalizer](https://github.com/akashic-records-of-the-abyss/rusted-filters/tree/HEAD/json_normalizer) | akashic-records-of-the-abyss | Normalizes jsonc and hjson into valid json! This uses all system threads (this can be configured) to make this process even faster! |
 | [tetanus](https://github.com/akashic-records-of-the-abyss/rusted-filters/tree/HEAD/tetanus) | akashic-records-of-the-abyss | This is the main filter dispatcher for the rusted collection of filters |
-| [marathon](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/marathon) | azurite-bedrock | Parallel script execution runtime that automatically discovers and runs generator scripts to automate the creation of blocks, items, entities, and other game content at scale. |
+| [dinoscript](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/dinoscript) | azurite-bedrock | Script API transpiler and bundler for JavaScript and TypeScript based on Deno. |
+| [marathon](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/marathon) | azurite-bedrock | Parallel script execution runtime that automatically discovers and runs generator scripts to automate the creation of content at scale. |
 | [minifeature](https://github.com/BigChungus21220/minifeature-regolith-filter/tree/HEAD/minifeature) | BigChungus21220 |  |
 | [texturelistgen](https://github.com/BigChungus21220/BigChungus21220-Regolith-Filters/tree/HEAD/texturelistgen) | BigChungus21220 | A filter that generates texture lists automatically |
 | [unifiedblocks](https://github.com/BigChungus21220/BigChungus21220-Regolith-Filters/tree/HEAD/unifiedblocks) | BigChungus21220 | A filter that unifies block definitions into a single file |

@@ -330,6 +330,9 @@
     },
     "fetcher": {
       "url": "github.com/thePixelmancer/regolith-filters"
+    },
+    "dinoscript": {
+      "url": "github.com/azurite-bedrock/regolith-filters"
     }
   }
 }
