@@ -333,6 +333,9 @@
     },
     "dinoscript": {
       "url": "github.com/azurite-bedrock/regolith-filters"
+    },
+    "recipe_image_gen": {
+      "url": "github.com/thePixelmancer/regolith-filters"
     }
   }
 }

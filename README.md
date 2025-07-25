@@ -129,4 +129,5 @@ This list contains filters created by the community.
 | [fetcher](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/fetcher) | thePixelmancer | Downloads remote github files |
 | [image_mixer](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/image_mixer) | thePixelmancer | A filter that makes image combinations based on a configuration file. |
 | [mclocalize](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/mclocalize) | thePixelmancer | Generates .lang files based on english |
+| [recipe_image_gen](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/recipe_image_gen) | thePixelmancer | Generates recipe images based on background and data |
 | [replacements](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/replacements) | thePixelmancer | Replaces strings to other strings |
