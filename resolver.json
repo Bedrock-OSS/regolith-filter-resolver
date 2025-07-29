@@ -336,6 +336,9 @@
     },
     "recipe_image_gen": {
       "url": "github.com/thePixelmancer/regolith-filters"
+    },
+    "jsonify": {
+      "url": "github.com/thePixelmancer/regolith-filters"
     }
   }
 }
