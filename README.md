@@ -75,6 +75,9 @@ This list contains filters created by the community.
 | [lazuli](https://github.com/ink0rr/regolith-filters/tree/HEAD/lazuli) | ink0rr |  |
 | [spawn_egg](https://github.com/ink0rr/regolith-filters/tree/HEAD/spawn_egg) | ink0rr |  |
 | [sync_manifest](https://github.com/ink0rr/regolith-filters/tree/HEAD/sync_manifest) | ink0rr |  |
+| [fast_ts](https://github.com/lightyisreal/regolith-filters/tree/HEAD/fast_ts) | lightyisreal | Transpiles TypeScript into JavaScript in a matter of a few seconds using esbuild. |
+| [js_obfuscator](https://github.com/lightyisreal/regolith-filters/tree/HEAD/js_obfuscator) | lightyisreal | Obfuscates JavaScript code to protect your code from unwanted stealers. |
+| [mcaddon](https://github.com/lightyisreal/regolith-filters/tree/HEAD/mcaddon) | lightyisreal | Packages your add-on into a .mcaddon file to distribute. |
 | [csharp-compiler](https://github.com/llgava/regolith-filters/tree/HEAD/csharp-compiler) | llgava | Automatically build a .dll file for all C# local filters on the project. |
 | [enderchest](https://github.com/llgava/regolith-filters/tree/HEAD/enderchest) | llgava | Encrypt your Minecraft code with AES symmetric algorithm. |
 | [JSon-cleaner](https://github.com/llgava/regolith-filters/tree/HEAD/JSon-cleaner) | llgava | A fork of the original filter 'json_cleaner' in order to make it compatible with JS files. |
