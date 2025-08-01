@@ -348,6 +348,9 @@
     },
     "js_obfuscator": {
       "url": "github.com/lightyisreal/regolith-filters"
+    },
+    "multifeature": {
+      "url": "github.com/thePixelmancer/regolith-filters"
     }
   }
 }

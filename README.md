@@ -75,7 +75,7 @@ This list contains filters created by the community.
 | [lazuli](https://github.com/ink0rr/regolith-filters/tree/HEAD/lazuli) | ink0rr |  |
 | [spawn_egg](https://github.com/ink0rr/regolith-filters/tree/HEAD/spawn_egg) | ink0rr |  |
 | [sync_manifest](https://github.com/ink0rr/regolith-filters/tree/HEAD/sync_manifest) | ink0rr |  |
-| [fast_ts](https://github.com/lightyisreal/regolith-filters/tree/HEAD/fast_ts) | lightyisreal | Transpiles TypeScript into JavaScript in a matter of a few seconds using esbuild. |
+| [fast_ts](https://github.com/lightyisreal/regolith-filters/tree/HEAD/fast_ts) | lightyisreal | Transpiles TypeScript into JavaScript in a few seconds using esbuild. |
 | [js_obfuscator](https://github.com/lightyisreal/regolith-filters/tree/HEAD/js_obfuscator) | lightyisreal | Obfuscates JavaScript code to protect your code from unwanted stealers. |
 | [mcaddon](https://github.com/lightyisreal/regolith-filters/tree/HEAD/mcaddon) | lightyisreal | Packages your add-on into a .mcaddon file to distribute. |
 | [csharp-compiler](https://github.com/llgava/regolith-filters/tree/HEAD/csharp-compiler) | llgava | Automatically build a .dll file for all C# local filters on the project. |
@@ -133,5 +133,6 @@ This list contains filters created by the community.
 | [image_mixer](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/image_mixer) | thePixelmancer | A filter that makes image combinations based on a configuration file. |
 | [jsonify](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/jsonify) | thePixelmancer | Converts YAML to JSON format |
 | [mclocalize](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/mclocalize) | thePixelmancer | Generates .lang files based on english |
+| [multifeature](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/multifeature) | thePixelmancer | Allows creating multiple features in a single JSON file |
 | [recipe_image_gen](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/recipe_image_gen) | thePixelmancer | Generates recipe images based on background and data |
 | [replacements](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/replacements) | thePixelmancer | Replaces strings to other strings |
