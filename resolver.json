@@ -351,6 +351,9 @@
     },
     "multifeature": {
       "url": "github.com/thePixelmancer/regolith-filters"
+    },
+    "image_rotate": {
+      "url": "github.com/lightyisreal/regolith-filters"
     }
   }
 }
