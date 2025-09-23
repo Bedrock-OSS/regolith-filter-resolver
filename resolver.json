@@ -354,6 +354,9 @@
     },
     "image_rotate": {
       "url": "github.com/lightyisreal/regolith-filters"
+    },
+    "git_metadata": {
+      "url": "github.com/MCDevKit/regolith-library"
     }
   }
 }

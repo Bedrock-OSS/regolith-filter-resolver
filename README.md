@@ -91,6 +91,7 @@ This list contains filters created by the community.
 | [ts_transpiler](https://github.com/MajestikButter/Regolith-Filters/tree/HEAD/ts_transpiler) | MajestikButter |  |
 | [export](https://github.com/Makercamp-SRLs/Regolith-filters/tree/HEAD/export) | Makercamp-SRLs |  |
 | [command_lang](https://github.com/MCDevKit/regolith-library/tree/HEAD/command_lang) | MCDevKit | Compiles the CommandLang programming language into .mcfunction files. |
+| [git_metadata](https://github.com/MCDevKit/regolith-library/tree/HEAD/git_metadata) | MCDevKit | Captures git metadata for use in packs. |
 | [json_templating_engine](https://github.com/MCDevKit/regolith-library/tree/HEAD/json_templating_engine) | MCDevKit | Compiles JSON templates into JSON files. Especially useful for making reusable pieces of content or large amounts of JSON files. |
 | [jsonte](https://github.com/MCDevKit/regolith-library/tree/HEAD/jsonte) | MCDevKit |  |
 | [mcdef_gen](https://github.com/MCDevKit/regolith-library/tree/HEAD/mcdef_gen) | MCDevKit | Generates a .mcdefinition file. |
