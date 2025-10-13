@@ -22,6 +22,7 @@ This list contains filters maintained by Bedrock-OSS.
 | [json_cleaner](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/json_cleaner) | Removes comments from all json files in the project. Useful, since some filters cannot understand files with comments. |
 | [json_convert](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/json_convert) | Converts JSON5 and Hjson files into standard JSON files. |
 | [name_ninja](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/name_ninja) | Automatically generates entity, block, spawn egg, and item names, based on a custom 'name' field, or on the entities identifier. |
+| [qjs_opt](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/qjs_opt) | Optimizes scripts using qjs-opt. |
 | [texture_convert](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/texture_convert) | Converts popular image editor file formats, such as .psd to .png. |
 | [texture_list](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/texture_list) | Automatically creates the `texture_list.json` file, based on the images you've added into your resource pack. |
 | [type_gen](https://github.com/Bedrock-OSS/regolith-filters/tree/HEAD/type_gen) | Generates Files.d.ts file with some relevant constants from the current pack. |
