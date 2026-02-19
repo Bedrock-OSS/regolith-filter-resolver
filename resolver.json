@@ -360,6 +360,9 @@
     },
     "qjs_opt": {
       "url": "github.com/Bedrock-OSS/regolith-filters"
+    },
+    "loot_tabler": {
+      "url": "github.com/TaisenSchettler/regolith-loot-tabler"
     }
   }
 }
