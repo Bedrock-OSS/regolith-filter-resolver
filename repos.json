@@ -36,6 +36,7 @@
     "github.com/ShapescapeMC/Shapescape-World-Settings",
     "github.com/ShapescapeMC/Shapescape-Minify-Json",
     "github.com/azurite-bedrock/regolith-filters",
-    "github.com/thePixelmancer/regolith-filters"
+    "github.com/thePixelmancer/regolith-filters",
+    "github.com/TaisenSchettler/regolith-loot-tabler"
   ]
 }
