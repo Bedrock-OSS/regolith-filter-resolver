@@ -363,6 +363,9 @@
     },
     "loot_tabler": {
       "url": "github.com/TaisenSchettler/regolith-loot-tabler"
+    },
+    "shush": {
+      "url": "github.com/azurite-bedrock/regolith-filters"
     }
   }
 }
