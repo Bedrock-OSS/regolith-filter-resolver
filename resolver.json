@@ -366,6 +366,9 @@
     },
     "shush": {
       "url": "github.com/azurite-bedrock/regolith-filters"
+    },
+    "rolldown": {
+      "url": "github.com/lightyisreal/regolith-filters"
     }
   }
 }
