@@ -37,6 +37,13 @@ This list contains filters created by the community.
 | ------ | ------ | ------------ |
 | [json_normalizer](https://github.com/akashic-records-of-the-abyss/rusted-filters/tree/HEAD/json_normalizer) | akashic-records-of-the-abyss | Normalizes jsonc and hjson into valid json! This uses all system threads (this can be configured) to make this process even faster! |
 | [tetanus](https://github.com/akashic-records-of-the-abyss/rusted-filters/tree/HEAD/tetanus) | akashic-records-of-the-abyss | This is the main filter dispatcher for the rusted collection of filters |
+| [addon_packer](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/addon_packer) | Alien-Edds | Puts multiple packs together. |
+| [cache_pack](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/cache_pack) | Alien-Edds | Caches the packs to be able to load them in the future. |
+| [image_duplicator](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/image_duplicator) | Alien-Edds | Duplicates images as many times as needed. |
+| [image_merge](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/image_merge) | Alien-Edds | Merges images. |
+| [image_tint](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/image_tint) | Alien-Edds | Tints images. |
+| [json_file_maker](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/json_file_maker) | Alien-Edds | Makes JSON files from one array. |
+| [lang_merger](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/lang_merger) | Alien-Edds | Merges lang files together. |
 | [dinoscript](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/dinoscript) | azurite-bedrock | Script API transpiler and bundler for JavaScript and TypeScript based on Deno. |
 | [marathon](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/marathon) | azurite-bedrock | Parallel script execution runtime that automatically discovers and runs generator scripts to automate the creation of content at scale. |
 | [shush](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/shush) | azurite-bedrock | Batched filter to remove comments, trailing commas and minify JSON asynchronously using deno |

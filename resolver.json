@@ -369,6 +369,27 @@
     },
     "rolldown": {
       "url": "github.com/lightyisreal/regolith-filters"
+    },
+    "addon_packer": {
+      "url": "github.com/Alien-Edds/regolith-filters"
+    },
+    "image_merge": {
+      "url": "github.com/Alien-Edds/regolith-filters"
+    },
+    "lang_merger": {
+      "url": "github.com/Alien-Edds/regolith-filters"
+    },
+    "cache_pack": {
+      "url": "github.com/Alien-Edds/regolith-filters"
+    },
+    "image_duplicator": {
+      "url": "github.com/Alien-Edds/regolith-filters"
+    },
+    "image_tint": {
+      "url": "github.com/Alien-Edds/regolith-filters"
+    },
+    "json_file_maker": {
+      "url": "github.com/Alien-Edds/regolith-filters"
     }
   }
 }
