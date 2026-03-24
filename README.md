@@ -128,6 +128,7 @@ This list contains filters created by the community.
 | [shapescape_easy_glyphs](https://github.com/ShapescapeMC/Shapescape-Easy-Glyphs/tree/HEAD/shapescape_easy_glyphs) | ShapescapeMC | Regolith filter that makes adding custom glyphs easier |
 | [shapescape_legacy_project_updater](https://github.com/ShapescapeMC/Shapescape-Legacy-Project-Updater/tree/HEAD/shapescape_legacy_project_updater) | ShapescapeMC | A filter for updating project using legacy commands - old execute format, block commands (fill, setblock, execute .. if block), and entity commands (summon). |
 | [shapescape_minify_json](https://github.com/ShapescapeMC/Shapescape-Minify-Json/tree/HEAD/shapescape_minify_json) | ShapescapeMC | Minifies the JSON files in RP and BP. |
+| [shapescape_nbt_replacer](https://github.com/ShapescapeMC/Shapescape-NBT-Replacer/tree/HEAD/shapescape_nbt_replacer) | ShapescapeMC | A filter that allows to replace strings inside of NBT files. |
 | [shapescape_texture_tools](https://github.com/ShapescapeMC/Shapescape-Texture-Tools/tree/HEAD/shapescape_texture_tools) | ShapescapeMC | Regolith filter for combining and separating textures. |
 | [shapescape_world_settings](https://github.com/ShapescapeMC/Shapescape-World-Settings/tree/HEAD/shapescape_world_settings) | ShapescapeMC | A filter that sets some properties in the level.dat file. |
 | [module_importer](https://github.com/ShiCheng-Lu/Regolith-Filters/tree/HEAD/module_importer) | ShiCheng-Lu |  |

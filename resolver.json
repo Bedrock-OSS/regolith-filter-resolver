@@ -390,6 +390,9 @@
     },
     "json_file_maker": {
       "url": "github.com/Alien-Edds/regolith-filters"
+    },
+    "shapescape_nbt_replacer": {
+      "url": "github.com/ShapescapeMC/Shapescape-NBT-Replacer"
     }
   }
 }
