@@ -393,6 +393,9 @@
     },
     "shapescape_nbt_replacer": {
       "url": "github.com/ShapescapeMC/Shapescape-NBT-Replacer"
+    },
+    "mc_docstrings": {
+      "url": "github.com/thePixelmancer/regolith-filters"
     }
   }
 }

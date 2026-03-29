@@ -144,6 +144,7 @@ This list contains filters created by the community.
 | [fetcher](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/fetcher) | thePixelmancer | Downloads remote github files |
 | [image_mixer](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/image_mixer) | thePixelmancer | A filter that makes image combinations based on a configuration file. |
 | [jsonify](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/jsonify) | thePixelmancer | Converts YAML to JSON format |
+| [mc_docstrings](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/mc_docstrings) | thePixelmancer | Parses docstrings within json files and outputs documentation based on user templates |
 | [mclocalize](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/mclocalize) | thePixelmancer | Generates .lang files based on english |
 | [multifeature](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/multifeature) | thePixelmancer | Allows creating multiple features in a single JSON file |
 | [recipe_image_gen](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/recipe_image_gen) | thePixelmancer | Generates recipe images based on background and data |
