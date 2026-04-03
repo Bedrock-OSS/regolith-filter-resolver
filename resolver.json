@@ -396,6 +396,9 @@
     },
     "mc_docstrings": {
       "url": "github.com/thePixelmancer/regolith-filters"
+    },
+    "addon_docs": {
+      "url": "github.com/thePixelmancer/regolith-filters"
     }
   }
 }

@@ -139,12 +139,12 @@ This list contains filters created by the community.
 | [adk](https://github.com/SmokeyStack/adk/tree/HEAD/adk) | SmokeyStack | Create add-ons for Minecraft without touching JSON |
 | [NBTEnchant](https://github.com/SmokeyStack/MCScripts/tree/HEAD/NBTEnchant) | SmokeyStack | This script is used to generate .mcstructure files containing edited nbt data that is currently not possible to do ingame |
 | [loot_tabler](https://github.com/TaisenSchettler/regolith-loot-tabler/tree/HEAD/loot_tabler) | TaisenSchettler | Assign loot tables to Bedrock .mcstructure files (Chest, Barrel, BrushableBlock, DecoratedPot) with folder and filename scoping. |
+| [addon_docs](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/addon_docs) | thePixelmancer | Parses docstrings within json files and outputs documentation based on user templates |
 | [aseprite_convert](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/aseprite_convert) | thePixelmancer | Automatically converts aseprite textures .png, spritesheets or frames. |
 | [auto_spawn_egg](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/auto_spawn_egg) | thePixelmancer | Automatically creates spawn egg colors in entity files, if none is specified. |
 | [fetcher](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/fetcher) | thePixelmancer | Downloads remote github files |
 | [image_mixer](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/image_mixer) | thePixelmancer | A filter that makes image combinations based on a configuration file. |
 | [jsonify](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/jsonify) | thePixelmancer | Converts YAML to JSON format |
-| [mc_docstrings](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/mc_docstrings) | thePixelmancer | Parses docstrings within json files and outputs documentation based on user templates |
 | [mclocalize](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/mclocalize) | thePixelmancer | Generates .lang files based on english |
 | [multifeature](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/multifeature) | thePixelmancer | Allows creating multiple features in a single JSON file |
 | [recipe_image_gen](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/recipe_image_gen) | thePixelmancer | Generates recipe images based on background and data |
