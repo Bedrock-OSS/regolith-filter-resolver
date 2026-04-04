@@ -399,6 +399,12 @@
     },
     "addon_docs": {
       "url": "github.com/thePixelmancer/regolith-filters"
+    },
+    "linguistic": {
+      "url": "github.com/r4isen1920/regolith-filters"
+    },
+    "meta_gen": {
+      "url": "github.com/r4isen1920/regolith-filters"
     }
   }
 }
