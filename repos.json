@@ -40,6 +40,7 @@
     "github.com/TaisenSchettler/regolith-loot-tabler",
     "github.com/Alien-Edds/regolith-filters",
     "github.com/ShapescapeMC/Shapescape-NBT-Replacer",
-    "github.com/r4isen1920/regolith-filters"
+    "github.com/r4isen1920/regolith-filters",
+    "https://github.com/XPGAMESLLC/regolith-library"
   ]
 }
