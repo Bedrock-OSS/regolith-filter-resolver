@@ -151,3 +151,4 @@ This list contains filters created by the community.
 | [multifeature](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/multifeature) | thePixelmancer | Allows creating multiple features in a single JSON file |
 | [recipe_image_gen](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/recipe_image_gen) | thePixelmancer | Generates recipe images based on background and data |
 | [replacements](https://github.com/thePixelmancer/regolith-filters/tree/HEAD/replacements) | thePixelmancer | Replaces strings to other strings |
+| [block_map_color](https://github.com/XPGAMESLLC/regolith-library/tree/HEAD/block_map_color) | XPGAMESLLC | Adds minecraft:map_color to block files by sampling the matching resource pack texture. |

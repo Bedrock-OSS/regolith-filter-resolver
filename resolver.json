@@ -405,6 +405,9 @@
     },
     "meta_gen": {
       "url": "github.com/r4isen1920/regolith-filters"
+    },
+    "block_map_color": {
+      "url": "github.com/XPGAMESLLC/regolith-library"
     }
   }
 }
