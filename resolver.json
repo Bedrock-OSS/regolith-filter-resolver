@@ -408,6 +408,9 @@
     },
     "block_map_color": {
       "url": "github.com/XPGAMESLLC/regolith-library"
+    },
+    "parcel": {
+      "url": "github.com/azurite-bedrock/regolith-filters"
     }
   }
 }

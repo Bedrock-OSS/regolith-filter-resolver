@@ -46,6 +46,7 @@ This list contains filters created by the community.
 | [lang_merger](https://github.com/Alien-Edds/regolith-filters/tree/HEAD/lang_merger) | Alien-Edds | Merges lang files together. |
 | [dinoscript](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/dinoscript) | azurite-bedrock | Script API transpiler and bundler for JavaScript and TypeScript based on Deno. |
 | [marathon](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/marathon) | azurite-bedrock | Parallel script execution runtime that automatically discovers and runs generator scripts to automate the creation of content at scale. |
+| [parcel](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/parcel) | azurite-bedrock | Packages content into .mc* archive files |
 | [shush](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/shush) | azurite-bedrock | Batched filter to remove comments, trailing commas and minify JSON asynchronously using deno |
 | [minifeature](https://github.com/BigChungus21220/minifeature-regolith-filter/tree/HEAD/minifeature) | BigChungus21220 | A filter for generating world gen features. |
 | [texturelistgen](https://github.com/BigChungus21220/BigChungus21220-Regolith-Filters/tree/HEAD/texturelistgen) | BigChungus21220 | A filter that generates texture lists automatically |
