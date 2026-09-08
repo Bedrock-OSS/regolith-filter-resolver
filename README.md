@@ -47,6 +47,7 @@ This list contains filters created by the community.
 | [dinoscript](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/dinoscript) | azurite-bedrock | Script API transpiler and bundler for JavaScript and TypeScript based on Deno. |
 | [marathon](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/marathon) | azurite-bedrock | Parallel script execution runtime that automatically discovers and runs generator scripts to automate the creation of content at scale. |
 | [parcel](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/parcel) | azurite-bedrock | Packages content into .mc* archive files |
+| [rune](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/rune) | azurite-bedrock | Structured lang file merger and translation coverage reporter for Bedrock resource and behavior packs. |
 | [shush](https://github.com/azurite-bedrock/regolith-filters/tree/HEAD/shush) | azurite-bedrock | Batched filter to remove comments, trailing commas and minify JSON asynchronously using deno |
 | [minifeature](https://github.com/BigChungus21220/minifeature-regolith-filter/tree/HEAD/minifeature) | BigChungus21220 | A filter for generating world gen features. |
 | [texturelistgen](https://github.com/BigChungus21220/BigChungus21220-Regolith-Filters/tree/HEAD/texturelistgen) | BigChungus21220 | A filter that generates texture lists automatically |
@@ -113,6 +114,7 @@ This list contains filters created by the community.
 | [custom_project](https://github.com/Nusiq/regolith-filters/tree/HEAD/custom_project) | Nusiq | A filter to organize your project files based on their extensions. |
 | [debug_say_function_name](https://github.com/Nusiq/regolith-filters/tree/HEAD/debug_say_function_name) | Nusiq | A tool for adding debug 'tellraw' commands to your *.mcfunction files. |
 | [json_template](https://github.com/Nusiq/regolith-filters/tree/HEAD/json_template) | Nusiq | JSON templating tool based on special strings with Python syntax. |
+| [local_export](https://github.com/Nusiq/regolith-filters/tree/HEAD/local_export) | Nusiq | Exports files created during the Regolith run (e.g. generated into the data folder or the packs) to the root directory of the Regolith project. |
 | [modular_mc](https://github.com/Nusiq/regolith-filters/tree/HEAD/modular_mc) | Nusiq | A filter that lets you group your project files into folders based on their purpose not their type. |
 | [pack_anything](https://github.com/Nusiq/regolith-filters/tree/HEAD/pack_anything) | Nusiq | Unopinionated filter that lets you pack anything into a ZIP file in any way you want. |
 | [pytemplate](https://github.com/Nusiq/regolith-filters/tree/HEAD/pytemplate) | Nusiq | JSON templating tool based on Python list and dict comprehension syntax. |
@@ -120,6 +122,8 @@ This list contains filters created by the community.
 | [subfunctions](https://github.com/Nusiq/regolith-filters/tree/HEAD/subfunctions) | Nusiq | An extension to the *.mcfunction file syntax. |
 | [system_template](https://github.com/Nusiq/regolith-filters/tree/HEAD/system_template) | Nusiq | A filter for grouping your project files into folders based on what they do together instead of what they are. |
 | [system_template_esbuild](https://github.com/Nusiq/regolith-filters/tree/HEAD/system_template_esbuild) | Nusiq | Script compiler that uses Esbuild designed to be used with the System Tempalte filter. |
+| [text_replacer](https://github.com/Nusiq/regolith-filters/tree/HEAD/text_replacer) | Nusiq | Replaces all occurrences of a string with another string in text files of the behavior and the resource packs. |
+| [texture_list_no_mers](https://github.com/Nusiq/regolith-filters/tree/HEAD/texture_list_no_mers) | Nusiq | Generates textures_list.json files for the resource pack and its subpacks. Skips textures with the _mer and _mers suffix to avoid errors reported by Minecraft Creator Tools (mctools.dev). |
 | [linguistic](https://github.com/r4isen1920/regolith-filters/tree/HEAD/linguistic) | r4isen1920 | This filter auto-translates your pack into different languages. |
 | [meta_gen](https://github.com/r4isen1920/regolith-filters/tree/HEAD/meta_gen) | r4isen1920 | This filter generates a `.d.ts` file that contains constants that define the current version of your pack. |
 | [shapescape_cgg_containers](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-Containers/tree/HEAD/shapescape_cgg_containers) | ShapescapeMC | A filter reads all containers of a level and prints them in a content guide generator template file. |

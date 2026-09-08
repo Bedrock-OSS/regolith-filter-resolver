@@ -411,6 +411,18 @@
     },
     "parcel": {
       "url": "github.com/azurite-bedrock/regolith-filters"
+    },
+    "text_replacer": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "local_export": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "texture_list_no_mers": {
+      "url": "github.com/Nusiq/regolith-filters"
+    },
+    "rune": {
+      "url": "github.com/azurite-bedrock/regolith-filters"
     }
   }
 }
